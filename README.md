@@ -18,3 +18,4 @@ This is a [Spring Boot](https://spring.io/projects/spring-boot) starter app that
 - Java
 - Spring Boot
 - Spring
+<!-- push-redeploy E2E test 2026-06-11 -->
